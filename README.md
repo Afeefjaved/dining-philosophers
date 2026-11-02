@@ -1,9 +1,12 @@
 # Dining Philosophers – Project 2
 
+TEAM 22 
+
 Name: Afeef Javed 
 NET ID: AXJ230065
-TEAM 22 
-Working individually.
+
+Name: Dinesh Janapati  
+NET ID: dxj220031
 
 ## About
 
